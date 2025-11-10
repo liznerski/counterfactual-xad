@@ -1,7 +1,8 @@
 # Reimagining Anomalies: What if Anomalies Were Normal?
 
 Here we provide the implementation for the paper *Reimagining Anomalies: What if Anomalies Were Normal?*.
-The implementation is based on PyTorch 2.1.2 and Python 3.10. The code is tested on Linux only.
+
+The implementation is based on PyTorch 2.1.2 and Python 3.10. The code is tested on Linux only. 
 
 <img src="data/main_figure.png?raw=true" height="525" width="738" > 
 
