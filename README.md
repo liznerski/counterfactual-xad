@@ -9,5 +9,5 @@ The implementation is based on PyTorch 2.1.2 and Python 3.10. The code is tested
 Deep learning-based methods have achieved a breakthrough in image anomaly detection, but their complexity introduces a considerable challenge to understanding why an instance is predicted to be anomalous. We introduce a novel explanation method that generates multiple alternative modifications for each anomaly, capturing diverse concepts of anomalousness. Each modification is trained to be perceived as normal by the anomaly detector. The method provides a semantic explanation of the mechanism that triggered the detector, allowing users to explore ``what-if scenarios.'' Qualitative and quantitative analyses across various image datasets demonstrate that applying this method to state-of-the-art detectors provides high-quality semantic explanations. 
 
 
-
-
+## WORK IN PROGRESS
+The code will be provided soon. Stay tuned.
